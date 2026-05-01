@@ -47,10 +47,9 @@ SpinMeal lets users add meals, filter by preferences, and spin to instantly pick
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SandeshShinde2026\&show_icons=true\&theme=github_dark\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=SandeshShinde2026&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshShinde2026\&layout=compact\&theme=github_dark\&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshShinde2026&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 ---
 
 ## 📈 Current Focus
