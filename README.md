@@ -46,12 +46,32 @@ SpinMeal suggests meals based on your preferences and lets you spin to instantly
 ## 🛠 Tech Stack
 
 <p>
+  <!-- Core Mobile -->
   <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android"/>
   <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=apple"/>
   <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin"/>
   <img src="https://img.shields.io/badge/Swift-black?style=flat&logo=swift"/>
+
+  <!-- Cross Platform -->
+  <img src="https://img.shields.io/badge/React%20Native-black?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Flutter-black?style=flat&logo=flutter"/>
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=dart"/>
+
+  <!-- Backend / DB -->
   <img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase"/>
+  <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql"/>
+
+  <!-- Platforms -->
+  <img src="https://img.shields.io/badge/Play%20Store-black?style=flat&logo=googleplay"/>
+  <img src="https://img.shields.io/badge/App%20Store-black?style=flat&logo=apple"/>
 </p>
 
 ---
