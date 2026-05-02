@@ -10,16 +10,16 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
-### 📱 MyPortfolio
+### MyPortfolio
 
 A premium developer portfolio app inspired by iOS design principles.
 Focused on smooth scroll interactions, minimal UI, and performance-first architecture.
 
 ---
 
-### 📊 Trackate App
+### Trackate (Native App - Andriod & IOS)
 
 A smart expense tracking app that helps you effortlessly manage money you spend and money you’re owed.
 
@@ -31,7 +31,7 @@ Trackate supports automatic expense tracking, quick manual logging, and real-tim
 
 ---
 
-### 🍽 SpinMeal App
+### SpinMeal (Native App - Andriod & IOS)
 
 A smart meal discovery app that helps you instantly decide what to eat through a personalized spinning experience.
 
@@ -43,7 +43,7 @@ SpinMeal suggests meals based on your preferences and lets you spin to instantly
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p>
   <!-- Core Mobile -->
@@ -76,7 +76,7 @@ SpinMeal suggests meals based on your preferences and lets you spin to instantly
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 * Building production-level mobile apps
 * Improving UI/UX to match premium app standards
@@ -84,9 +84,9 @@ SpinMeal suggests meals based on your preferences and lets you spin to instantly
 
 ---
 
-## 📫 Contact
+## Contact
 
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Email: [sandeshshinde2026@gmail.com](mailto:sandeshshinde2026@gmail.com)
 * Portfolio: Coming Soon
 * GitHub: https://github.com/SandeshShinde2026
 
