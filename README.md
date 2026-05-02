@@ -1,7 +1,12 @@
-# Sandesh Shinde
+<h1 align="center">Sandesh Shinde</h1>
 
-🚀 Mobile App Developer (Android + iOS)
-Building clean, high-performance apps with a focus on UI, animations, and real-world usability.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Android+%2B+iOS);Building+Premium+UI+Experiences;Focused+on+Performance+%26+Real+World+Apps" />
+</p>
+
+<p align="center">
+  <i>Building clean, high-performance apps with a focus on UI, animations, and real-world usability.</i>
+</p>
 
 ---
 
@@ -18,9 +23,11 @@ Focused on smooth scroll interactions, minimal UI, and performance-first archite
 
 A smart expense tracking app that helps you effortlessly manage money you spend and money you’re owed.
 
-Trackate supports automatic expense tracking, quick manual logging, and real-time insights—making it easy to stay in control of your finances. It also includes seamless bill-splitting, positioning it as a simple alternative to apps like Splitwise.
+Trackate supports automatic expense tracking, quick manual logging, and real-time insights—keeping your finances under control. It also includes seamless bill-splitting, making it a simple alternative to apps like Splitwise.
 
-🔗 **[View on Play Store](https://play.google.com/store/apps/details?id=com.svnate.trackate)**
+🔗 <b>Links:</b>
+• <a href="https://play.google.com/store/apps/details?id=com.svnate.trackate">Play Store</a>
+• <a href="https://trackate.svnate.com">Website</a>
 
 ---
 
@@ -28,23 +35,26 @@ Trackate supports automatic expense tracking, quick manual logging, and real-tim
 
 A smart meal discovery app that helps you instantly decide what to eat through a personalized spinning experience.
 
-SpinMeal lets users add meals, filter by preferences, and spin to instantly pick what to eat—removing decision fatigue and making meal choices fun and effortless. ([Google Play][1])
+SpinMeal suggests meals based on your preferences and lets you spin to instantly pick what to eat—removing decision fatigue and making decisions fun and effortless.
 
-🔗 **[View on Play Store](https://play.google.com/store/apps/details?id=com.svnate.spinmeal)**
+🔗 <b>Links:</b>
+• <a href="https://play.google.com/store/apps/details?id=com.svnate.spinmeal">Play Store</a>
+• <a href="https://spinmeal.svnate.com">Website</a>
 
 ---
 
 ## 🛠 Tech Stack
 
-![Android](https://img.shields.io/badge/Android-black?style=flat\&logo=android)
-![iOS](https://img.shields.io/badge/iOS-black?style=flat\&logo=apple)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat\&logo=kotlin)
-![Swift](https://img.shields.io/badge/Swift-black?style=flat\&logo=swift)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat\&logo=typescript)
-![Firebase](https://img.shields.io/badge/Firebase-black?style=flat\&logo=firebase)
+<p>
+  <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android"/>
+  <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=apple"/>
+  <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin"/>
+  <img src="https://img.shields.io/badge/Swift-black?style=flat&logo=swift"/>
+  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase"/>
+</p>
 
 ---
-
 
 ## 📈 Current Focus
 
@@ -56,13 +66,12 @@ SpinMeal lets users add meals, filter by preferences, and spin to instantly pick
 
 ## 📫 Contact
 
-* Email: [sandeshshinde2026@gmail.com](mailto:sandeshshinde2026@gmail.com)
+* Email: [your-email@example.com](mailto:your-email@example.com)
 * Portfolio: Coming Soon
 * GitHub: https://github.com/SandeshShinde2026
 
 ---
 
-> Focused on quality over quantity.
-> Building products, not just projects.
-
-[1]: https://play.google.com/store/apps/details?id=com.svnate.spinmeal&utm_source=chatgpt.com "SpinMeal - Apps on Google Play"
+<p align="center">
+  <i>Focused on quality over quantity. Building products, not just projects.</i>
+</p>
