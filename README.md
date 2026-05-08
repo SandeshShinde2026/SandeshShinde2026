@@ -1,97 +1,114 @@
-<h1 align="center">Sandesh Shinde</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Android+%2B+iOS);Building+Premium+UI+Experiences;Focused+on+Performance+%26+Real+World+Apps" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=SandeshShinde2026&color=0e75b6&style=flat)
 
-<p align="center">
-  <i>Building clean, high-performance apps with a focus on UI, animations, and real-world usability.</i>
-</p>
+<br>
 
----
+# Sandesh Shinde
 
-## Featured Projects
+### Mobile Developer · React Native · Flutter · Android · iOS
 
-### MyPortfolio
+*Final-year B.Tech IT student shipping real apps to production —*
+*two live on Play Store, built and maintained solo.*
 
-A premium developer portfolio app inspired by iOS design principles.
-Focused on smooth scroll interactions, minimal UI, and performance-first architecture.
+<br>
 
----
+[![Email](https://img.shields.io/badge/Email-sandeshshinde2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeshshinde2026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sandesh_Shinde-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandesh-shinde-b491aa246)
+[![GitHub](https://img.shields.io/badge/GitHub-SandeshShinde2026-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandeshShinde2026)
 
-### Trackate App
+</div>
 
-A smart expense tracking app that helps you effortlessly manage money you spend and money you’re owed.
-
-Trackate supports automatic expense tracking, quick manual logging, and real-time insights—keeping your finances under control. It also includes seamless bill-splitting, making it a simple alternative to apps like Splitwise.
-
-🔗 <b>Links:</b>
-• <a href="https://play.google.com/store/apps/details?id=com.svnate.trackate">Play Store</a>
-• <a href="https://trackate.svnate.com">Website</a>
+<br>
 
 ---
 
-### SpinMeal App
+## About me
 
-A smart meal discovery app that helps you instantly decide what to eat through a personalized spinning experience.
+I'm a self-driven mobile developer in my final year of B.Tech (IT). While most students are still going through tutorials, I've been shipping to production — two apps live on the Play Store, built and maintained solo under my studio **SVNATE**.
 
-SpinMeal suggests meals based on your preferences and lets you spin to instantly pick what to eat—removing decision fatigue and making decisions fun and effortless.
+My stack is **React Native** and **Flutter** for cross-platform work, and I write native **Kotlin** and **Swift** when performance or platform-specific behaviour demands it. I care about UI that feels right, architecture that doesn't embarrass me in six months, and apps that people actually open more than once.
 
-🔗 <b>Links:</b>
-• <a href="https://play.google.com/store/apps/details?id=com.svnate.spinmeal">Play Store</a>
-• <a href="https://spinmeal.svnate.com">Website</a>
+> Currently open to **mobile developer roles** after graduation — React Native, Flutter, or native Android/iOS.
 
 ---
 
-## Tech Stack
+## Shipped projects
 
-<p>
-  <!-- Core Mobile -->
-  <img src="https://img.shields.io/badge/Android-black?style=flat&logo=android"/>
-  <img src="https://img.shields.io/badge/iOS-black?style=flat&logo=apple"/>
-  <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=kotlin"/>
-  <img src="https://img.shields.io/badge/Swift-black?style=flat&logo=swift"/>
+<br>
 
-  <!-- Cross Platform -->
-  <img src="https://img.shields.io/badge/React%20Native-black?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Flutter-black?style=flat&logo=flutter"/>
+### [Trackate](https://trackate.svnate.com/) &nbsp;·&nbsp; [Play Store ↗](https://play.google.com/store/apps/details?id=com.svnate.trackate)
 
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript"/>
-  <img src="https://img.shields.io/badge/Dart-black?style=flat&logo=dart"/>
+Most expense apps demand constant manual entry — it gets ignored within a week. Trackate fixes this with **automatic expense detection**, reading payment notifications in real time so users never have to log manually. Built for students and young users who want Splitwise-level bill splitting without the paywall.
 
-  <!-- Backend / DB -->
-  <img src="https://img.shields.io/badge/Firebase-black?style=flat&logo=firebase"/>
-  <img src="https://img.shields.io/badge/Supabase-black?style=flat&logo=supabase"/>
-  <img src="https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql"/>
+Architected with MVVM on Flutter. The core engineering challenge was keeping personal expenses, category budgets, and multi-party debt balances consistent across four interconnected Firestore streams — atomic updates ensure no partial state when any one piece changes. Offline state handled via SharedPreferences with Firebase sync on reconnect.
 
-  <!-- Platforms -->
-  <img src="https://img.shields.io/badge/Play%20Store-black?style=flat&logo=googleplay"/>
-  <img src="https://img.shields.io/badge/App%20Store-black?style=flat&logo=apple"/>
-</p>
+![Downloads](https://img.shields.io/badge/1%2C000%2B_downloads-grey?style=flat-square)
+![Rating](https://img.shields.io/badge/5.0★_rating-FFD700?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+
+<br>
+
+### [SpinMeal](https://spinmeal.svnate.com/) &nbsp;·&nbsp; [Play Store ↗](https://play.google.com/store/apps/details?id=com.svnate.spinmeal)
+
+The "you decide" loop wastes more time than the meal itself. SpinMeal cuts it to under 10 seconds — spin a personalised wheel, get an answer, eat. Built for students, couples, and groups who just want to stop arguing about food.
+
+Architected with MVVM on React Native, deployed natively to both Android and iOS. The core engineering challenge was the spin wheel itself — custom deceleration physics, real-time pointer-based result detection, and a confetti sequence tied to the spin outcome, all running without dropping frames. Preference filtering (veg/non-veg, meal type, custom categories) runs locally so the app responds instantly with no network round-trip.
+
+![Live](https://img.shields.io/badge/Live_on_Play_Store-grey?style=flat-square)
+![Rated](https://img.shields.io/badge/Rated_3%2B-green?style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+---
+
+## GitHub stats
+
+<div align="center">
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SandeshShinde2026&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+<br>
+
+</div>
 
 ---
 
-## Current Focus
+## Tech stack
 
-* Building production-level mobile apps
-* Improving UI/UX to match premium app standards
-* Creating scalable backend-connected applications
+<br>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## Contact
+## Currently working on
 
-* Email: [sandeshshinde2026@gmail.com](mailto:sandeshshinde2026@gmail.com)
-* Portfolio: Coming Soon
-* GitHub: https://github.com/SandeshShinde2026
+- SpinMeal iOS launch — App Store release in progress
+- Trackate v2 — improved onboarding and iOS support
+- Portfolio site — proper one, not "coming soon"
+- Open to mobile dev roles · graduating 2027
 
 ---
 
-<p align="center">
-  <i>Focused on quality over quantity. Building products, not just projects.</i>
-</p>
+<div align="center">
+
+*Two apps. 1,000+ users. 5.0 stars. One more launching soon.*
+
+*If you're hiring a mobile developer who doesn't need hand-holding — [let's talk](mailto:sandeshshinde2026@gmail.com)*
+
+</div>
